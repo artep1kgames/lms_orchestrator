@@ -43,7 +43,7 @@ lms_orchestrator/
 1. **Клонирование репозитория:**
 
    ```bash
-   git clone https://github.com/yourusername/lms_orchestrator.git
+   git clone https://github.com/artep1kgames/lms_orchestrator.git
    cd lms_orchestrator
    ```
 
